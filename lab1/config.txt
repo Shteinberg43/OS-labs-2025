@@ -1,0 +1,4 @@
+/home/georgy/test_A /home/georgy/test_C 30
+/home/georgy/test_B /home/georgy/test_C 35
+/home/georgy/test_C /home/georgy/test_F 36
+/home/georgy/test_G /home/georgy/test_B 3
